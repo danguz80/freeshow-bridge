@@ -40,7 +40,8 @@ Diseñado para:
 ---
 
 Uso:
-**Cuando se están proyectando distintas cosas distintas a las alabanzas en la pantalla de la audiencia, los músicos se quedan sin retroalimentación de lo que sigue en el programa, con esto se puede configurar un nuevo tema de escenario en donde se agregue una diapositiva con contenido web, y esa URL es la que entrega el server.js, con esto se puede elegir entre ver lo que viene en cada sección del programa, tanto como alabanzas, versículos, oportunidades especiales, etc., en distintos formatos disponibles, en formato lienzo de 1 o 2 lineas, o en formato vertical.**.
+
+**Cuando se están proyectando distintas cosas distintas a las alabanzas en la pantalla de la audiencia, los músicos se quedan sin retroalimentación de lo que sigue en el programa, con esto se puede configurar un nuevo tema de escenario en donde se agregue una diapositiva con contenido web, y esa URL es la que entrega el server.js, con esto se puede elegir entre ver lo que viene en cada sección del programa, tanto como alabanzas, versículos, oportunidades especiales, etc., en distintos formatos disponibles, en formato lienzo de 1 o 2 lineas, o en formato vertical**.
 
 # 🧠 Arquitectura
 
@@ -318,7 +319,8 @@ Designed for:
 - Technical integrations
 
 Use:
-**When different things other than the praises are being projected on the audience's screen, the musicians are left without feedback on what follows in the program. With this, a new stage theme can be configured where a slide with web content is added, and that URL is what server.js provides. This allows choosing to see what comes in each section of the program, such as praises, verses, special opportunities, etc., in various available formats, in a canvas format of 1 or 2 lines, or in vertical format.**.
+
+**When different things other than the praises are being projected on the audience's screen, the musicians are left without feedback on what follows in the program. With this, a new stage theme can be configured where a slide with web content is added, and that URL is what server.js provides. This allows choosing to see what comes in each section of the program, such as praises, verses, special opportunities, etc., in various available formats, in a canvas format of 1 or 2 lines, or in vertical format**.
 
 ---
 
