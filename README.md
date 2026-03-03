@@ -12,11 +12,11 @@
 
 ## 🎬 Ticker (1 línea)
 
-![Ticker One Line](docs/mockup-ticker.gif)
+![Ticker One Line](./docs/mockup-ticker.gif)
 
 ## 🎬 Ticker (2 líneas)
 
-![Ticker Two Lines](docs/mockup-ticker2.gif)
+![Ticker Two Lines](./docs/mockup-ticker2.gif)
 
 ## 🖥 Vista Vertical
 
